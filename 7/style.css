@@ -1,0 +1,8 @@
+ul {
+    list-style-image: url(red.png);
+}
+
+.green {
+    list-style-image: url(green.png);
+    
+}

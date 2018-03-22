@@ -1,0 +1,8 @@
+p span{
+    color:crimson;
+}
+
+p + p span:last-child{
+    color:blue;
+}
+

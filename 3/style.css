@@ -1,0 +1,13 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace
+}
+h1 i:first-child{
+    color:red
+}
+p i {
+    color:blue
+}
+li i {
+    color:blue
+}
